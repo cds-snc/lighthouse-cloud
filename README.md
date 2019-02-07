@@ -1,1 +1,1 @@
-gcloud functions deploy scanDomain --runtime nodejs8 --trigger-http --memory=1024MB
+gcloud functions deploy scanURL --runtime nodejs8 --trigger-http --memory=1024MB
