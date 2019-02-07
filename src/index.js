@@ -4,7 +4,6 @@ require("dotenv-safe").config({ allowEmptyValues: true });
 const handle = require("./handler").handle;
 
 const scanURL = async (request, response) => {
-  console.log(request.query);
   if (request.query.secret === process.env.SECRET) {
     const data = await handle(request.query.url);
     response
