@@ -10,7 +10,7 @@ steps:
       - --ciphertext-file=.env.enc
       - --plaintext-file=.env
       - --location=global
-      - --project=lighthouse-scanner
+      - --project=lighthouse-cloud
       - --keyring=deploy
       - --key=env
   - name: "gcr.io/cloud-builders/gcloud"
