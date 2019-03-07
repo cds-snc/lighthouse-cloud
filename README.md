@@ -1,5 +1,5 @@
 # Lighthouse cloud
-[![Maintainability](https://api.codeclimate.com/v1/badges/0184d3ed9b4111850ec7/maintainability)](https://codeclimate.com/github/cds-snc/lighthouse-cloud/maintainability)
+[![Phase](https://img.shields.io/badge/Phase-Beta-22a7f0.svg)](https://digital.canada.ca/products/) [![Maintainability](https://api.codeclimate.com/v1/badges/0184d3ed9b4111850ec7/maintainability)](https://codeclimate.com/github/cds-snc/lighthouse-cloud/maintainability)
 
 ### Purpose
 
